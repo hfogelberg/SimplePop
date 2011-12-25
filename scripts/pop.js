@@ -1,3 +1,6 @@
+// SimplePop
+// (c) Henrik Fogelberg henrik.fogelberg@gmail.com
+
 function showPop(file){
 	$("#background").css({
 		"opacity": "0.7",
